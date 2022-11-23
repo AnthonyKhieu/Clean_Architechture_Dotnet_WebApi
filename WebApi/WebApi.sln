@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.Api", "Web.Api\Web.Api.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.Common", "Web.Common\Web.Common.csproj", "{E6A06CB3-4637-4828-8850-7576588CFC7B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.Domain", "Web.Models\Web.Domain.csproj", "{4D3E0FF2-4F98-4DAD-81D2-45E6E20C5F6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.Domain", "Web.Domain\Web.Domain.csproj", "{4D3E0FF2-4F98-4DAD-81D2-45E6E20C5F6F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Infrastructure", "Web.Infrastructure\Web.Infrastructure.csproj", "{35747DF9-B122-4329-8F4E-F82FE380BF1F}"
 EndProject
